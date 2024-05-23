@@ -7,6 +7,10 @@
 First, run the development server:
 
 ```bash
+Rename env.local to .env.local
+```
+
+```bash
 npm i
 npm run dev
 ```
