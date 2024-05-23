@@ -1,3 +1,9 @@
+## Palworld Dashboard
+
+https://raw.githubusercontent.com/kreangsak-project-sharing/palworld-supabase-realtime-frontend/main/Screenshot%202024-05-23%20221903.png
+
+## Getting Started
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
